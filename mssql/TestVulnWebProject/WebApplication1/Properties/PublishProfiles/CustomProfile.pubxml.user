@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>http://localhost/</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/WebApplication1.dll">
+      <publishTime>04/24/2020 15:20:32</publishTime>
+    </File>
+    <File Include="bin/WebApplication1.pdb">
+      <publishTime>04/24/2020 15:20:32</publishTime>
+    </File>
+    <File Include="default.aspx">
+      <publishTime>04/24/2020 15:13:00</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>04/24/2020 15:20:32</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/24/2020 15:16:23</publishTime>
+    </File>
+    <File Include="WebForm1.aspx">
+      <publishTime>04/18/2020 22:16:17</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
